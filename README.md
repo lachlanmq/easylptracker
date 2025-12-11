@@ -40,4 +40,4 @@ The refresh cooldown can also be modified by changing the `REFRESH_COOLDOWN` lit
 
 I set it to 120 seconds because I believe 2 minutes is a good balance.
 
-### No generative AI was used in this project and I do not consent to it being used within any AI tool or assistant.
+### No generative AI was used in the creation of this project and I do not consent to it being used within any AI tool or assistant.
